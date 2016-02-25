@@ -1,5 +1,8 @@
 # Bio 302 Assignments
 
+[Homework 4](homework04.ipynb) -- Due before class Thursday, Mar 3rd. Please DM me the link to your Gist on Slack.
+
+
 [Homework 3](homework03.ipynb) -- Due before class Thursday, Feb 25th. Please DM me the link to your Gist on Slack.
 
 
