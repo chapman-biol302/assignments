@@ -1,5 +1,4 @@
-<link href="markdown.css" rel="stylesheet"></link>
-## Homework 8
+## Homework 7
 
 ### Problem 1
 
@@ -110,19 +109,11 @@ mammals.
    There are plenty of other genes, and there are plenty of other
    mitochondrial genes. Why do researchers use this one?
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-
 ### Problem 2
 
 Consider the following distance matrix:
 
-<table border="1" cellpadding="0" width="200" height="119">
+<table border="1" cellpadding="0">
    <tbody><tr>
       <td width="16%" height="17">
          <p>&nbsp;</p>
