@@ -50,7 +50,7 @@ mitochondrion to figure out where they go, and in the process, try to
 answer the questions we had above about the history of the aquatic
 mammals.
 
-1. Make a FASTA-format file named like hw08_lastname.fasta that
+1. Make a FASTA-format file named `hw08_lastname.fasta` that
    contains a number of cytochrome b **protein** sequences, as
    follows: grab one representative of each of the 12 terminal groups
    on the boreoeutherian clade. For instance, for "Carnivora" you
@@ -250,7 +250,7 @@ easily if you want to run it locally.)
 
 Once you're there, drill down to `phylogeny` > `distance` > `neighbor`
 to get to the interface for the program. Paste in the distance data as
-formatted in the included `distances.txt` file. Tell the site not to
+formatted in the included [`distances.txt`](./distances.txt) file. Tell the site not to
 email you, and click open the 'advanced options' button. The only
 option you want to mess with under 'advanced options' is "Distance
 method", where you can switch between NJ and UPGMA.
