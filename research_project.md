@@ -97,17 +97,17 @@ The characteristics of strong work are laid out below. In addition, your work sh
 
 ### Some Sources of Public Bioinformatics Data
 
-NCBI & Ensembl!
-Personal Genomes Project
-HapMap
-1,000 Genomes Project
-Gene Ontology & KEGG
-Gene Expression Omnibus
-ENCODE
-data.gov
-NHANES
-PDB & SwissProt
-Google...
+- NCBI & Ensembl!
+- Personal Genomes Project
+- HapMap
+- 1,000 Genomes Project
+- Gene Ontology & KEGG
+- Gene Expression Omnibus
+- ENCODE
+- data.gov
+- NHANES
+- PDB & SwissProt
+- Google...
 
 
 ## Some Examples of IPython Notebooks
