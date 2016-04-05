@@ -21,7 +21,7 @@ Finding an idea to work on shouldn’t be too hard, and will hopefully be fun. Y
 
 First off, if you’re already involved in undergraduate research, picking a bioinformatic aspect of your research topic can be a great idea -- in that case, raise the issue with your advisor and see if you can drum up some ideas.
 
-You can just google “bioinformatics <interest>”, where interest might be “cancer”, “dolphins”, “neanderthal”, anything, and bounce around.
+You can just google “bioinformatics *interest*”, where interest might be “cancer”, “dolphins”, “neanderthal”, anything, and bounce around.
 
 I’d suggest looking through the Wikipedia page on bioinformatics, and looking throught the back half of our textbook; you get a reasonably comprehensive listing of the areas of research there. What’s interesting to you?
 
