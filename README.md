@@ -1,6 +1,8 @@
 # Bio 302 Assignments
 
-[Homework 8](homework08.ipynb) -- Due before class Thursday, April 21st. Please DM me the link to your Gist on Slack.
+[Homework 9](homework09.md) -- Due before class Thursday, April 28th. Please DM me the link to your Gist/doc on Slack.
+
+[Homework 8](homework08.ipynb) -- [*Modified*] Due before class Thursday, April 28th. Please DM me the link to your Gist on Slack.
 
 <hr />
 
